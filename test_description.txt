@@ -1,0 +1,27 @@
+Test 1: Sign Up
+1. Open the DemoBlaze website.
+2. Click "Sign up".
+3. Enter a new username and password.
+4. Click "Sign up" button.
+5. Verify the alert says "Sign up successful."
+
+Test 2: Log In
+1. Click "Log in".
+2. Enter valid credentials.
+3. Click "Log in" button.
+4. Verify that the username is displayed on the top bar.
+
+Test 3: Log Out
+1. Click "Log out" button.
+2. Verify that the "Log in" button is visible again.
+
+Test 4: Buy Product
+1. Click "Laptops" category.
+2. Choose a laptop (e.g., Sony vaio i5).
+3. Click "Add to cart".
+4. Accept the alert.
+5. Go to "Cart".
+6. Click "Place Order".
+7. Fill the form with random data.
+8. Click "Purchase".
+9. Verify "Thank you for your purchase" text is displayed.
