@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 Resource   ../resources/keywords.robot
 
-Suite Setup     Open DemoBlaze Website
+Suite Setup     Setup Browser
 Suite Teardown  Close Browser
 
 *** Test Cases ***
